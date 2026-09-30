@@ -1,0 +1,10 @@
+{
+  "name": "SpriteLibrarian",
+  "display_name": "Sprite-Librarian",
+  "description": "Character sprite production, rigging, validation and provider-independent generation systems.",
+  "author": "Sprite-Librarian",
+  "version": "0.1.0-dev",
+  "license": "MIT",
+  "supported_api_versions": [9],
+  "nodes": ["SpriteLibrarian.tscn"]
+}
