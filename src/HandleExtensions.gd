@@ -91,7 +91,7 @@ func _ready() -> void:
 ## For example:
 ## [code]_load_extension("ExtensionName", true)[/code]
 func _add_internal_extensions() -> void:
-	pass
+	_load_extension("SpriteLibrarian", true)
 
 
 func install_extension(path: String) -> void:
